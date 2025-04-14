@@ -1,4 +1,4 @@
-package form;
+package main.java.form;
 
 public class Form {
     protected String color;
